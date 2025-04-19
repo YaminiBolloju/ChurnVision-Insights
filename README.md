@@ -75,4 +75,4 @@ The dataset consists of **3333 rows and 21 columns**, capturing various customer
 - **Try Different Models**: Compare with Decision Trees, Random Forest, and XGBoost.
 
 ## Author
-Rajkumar Shenigaram
+Yamini Bolloju
